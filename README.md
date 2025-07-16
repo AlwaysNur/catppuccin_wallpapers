@@ -2,7 +2,7 @@
 
 
 ## Nature
-![img](./wallpapers/nature/fields.jpeg)
+![img](./wallpapers/nature/fields.jpg)
 
 ## Harry Potter
 
